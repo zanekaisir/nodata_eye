@@ -66,5 +66,5 @@ flutter run -d web-server
 
 ## 🤝 Contributors
 **Yohan Yoon** [Full-Stack Devleopment]
-**Zane Kaisir** [Backend Development]
+**Zane Agnissey** [Backend Development]
 **Summer Green** [Computer Vision]
